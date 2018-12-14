@@ -1,5 +1,5 @@
 # BadgeView
-[ ![Download](https://api.bintray.com/packages/qstumn/maven/badgeview/images/download.svg) ](https://bintray.com/qstumn/maven/badgeview/_latestVersion)
+[![](https://jitpack.io/v/luongvo/BadgeView.svg)](https://jitpack.io/#luongvo/BadgeView)
 
 一个可以自由定制外观、支持拖拽消除的MaterialDesign风格Android BadgeView
 
